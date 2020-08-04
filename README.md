@@ -15,4 +15,8 @@ Description of the codes
 11.calenderCheck.sh - Even/Odd Check for Calender Date
 12.calculator.sh - A Simple Calcutor
 13.divisibleByEleven.sh - Insertion of digit at the end to make it divisible by 11 
-14.
+14.recursiveMergeSort.sh - Recursive Merge Sort
+15.nonRecursiveMergeSort.sh - Non-Recursive Quick Sort
+16.recursiveQuickSort.sh - Recursive Quick Sort
+17.sortedBinarySearch.sh - Binary Search in a sorted array of Integers
+
