@@ -2,4 +2,4 @@
 
 Description of the codes
 
-1. Hello World - First Code to start with
+1. HelloWorld.sh - First Code to start with
