@@ -11,3 +11,8 @@ Description of the codes
 7. swapNumbers.sh - Swap 2 numbers without using 3rd variable
 8. baseConversion.sh - Base conversion based on input and output base
 9. binarySearch.sh - Binary Search of provided numbers
+10.bubbleSort.sh - Bubble Sorting of provided numbers
+11.calenderCheck.sh - Even/Odd Check for Calender Date
+12.calculator.sh - A Simple Calcutor
+13.divisibleByEleven.sh - Insertion of digit at the end to make it divisible by 11 
+14.
