@@ -23,7 +23,8 @@ Description of the codes as below :
 15.nonRecursiveMergeSort.sh - Non-Recursive Quick Sort
 16.recursiveQuickSort.sh - Recursive Quick Sort
 17.sortedBinarySearch.sh - Binary Search in a sorted array of Integers
-   •	Elements  are taken input in an array which leads to static memory allocation.Though number of elements to be entered is known first.
+  •	Elements  are taken input in an array which leads to static memory allocation.
+   Though number of elements to be entered is known first.
   •	Binary Search  method is always done in a sorted array.
   •	In each iteration,array is sub-divided to equal size
 18.freqWordGrep.sh-Frequency of Words using grep command
@@ -39,7 +40,8 @@ Description of the codes as below :
   •	For reading command line arguments, positional parameters are set for ease.
 21.findPrimeInRange.sh - Finding Prime Numbers within a Range provided.
   •	Here the files to be used are removed for safety.
-  •	Comlexity of the algorithm has been reduced by using command ‘factor’ which lists the factors of a number in an ascending order.
+  •	Comlexity of the algorithm has been reduced by using command ‘factor’ which lists the 
+      factors of a number in an ascending order.
   •	For reading the command line arguments, positional parameters are set.
 22.monthsInRange.sh - Print month dates in format for the range provided.
 23.gradeCalculation.sh - A student examination file contain records in the following format:
